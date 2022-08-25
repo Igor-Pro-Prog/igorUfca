@@ -1,7 +1,7 @@
-# 👋 Hi, I’m @Igor Gabriel
-# https://igorufca.github.io/#index.html#home
-# 👀 I'm interested in statistical mathematics and physics..
-# 🌱 I'm learning C, ShellScript, Python and Html.
+- 👋 Hi, I’m @Igor Gabriel
+- https://igorufca.github.io/#index.html#home
+- 👀 I'm interested in statistical mathematics and physics..
+- 🌱 I'm learning C, ShellScript, Python and Html.
 
 
 
