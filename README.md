@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-igorUfca/igorUfca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+
+
+
+![snake gif](https://github.com/igorUfca/igorUfca/blob/output/github-contribution-grid-snake.svg)
