@@ -5,7 +5,7 @@
 
 
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+<p align="center">   <img alingn="center" src="hhttps://github.com/igorUfca" /></p>
 
 
 
