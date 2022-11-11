@@ -4,7 +4,7 @@
 - 🌱 I'm learning C, ShellScript, Python and Html.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorUfca&langs_count=8)](https://github.com/igorUfca/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorUfca&langs_count=4)](https://github.com/igorUfca/github-readme-stats)
 
 
 
